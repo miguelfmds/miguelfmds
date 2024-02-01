@@ -1,6 +1,6 @@
 ### Opaaaa! Eu sou o Miguel 👋
 
-- 🌱 Estudando JavaScript, HTML e CSS
+- 🌱 Estudando JavaScript, HTML, CSS e Azure
 - 👯 Buscando conexões e oportunidades profissionais
 - 😄 Pronomes: ele/dele
 
@@ -31,7 +31,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure" />
         </a>
       </p>
     </div>  
