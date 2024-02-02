@@ -10,11 +10,10 @@
   <img align="right" alt="batman" src ="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif">
   
 </div>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Linguagens</h1>
+    <h2 align="center">Linguagens de programação</h2>
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
@@ -27,7 +26,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Ferramentas 🛠</h1>
+    <h2 align="center">Tecnologias 🛠</h2>
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
@@ -38,8 +37,10 @@
    </div>
   </div>
 
+   ## Bootcamps
+   [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals?page=1&search=&tab=path)
 
-   # Linguagens mais usadas
+   ## Linguagens mais usadas
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfmds&layout=donut-vertical)](https://github.com/miguelfmds/github-readme-stats)
 
@@ -50,4 +51,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelfmds/miguelfmds/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguelfmds/miguelfmds/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miguelfmds/miguelfmds/output/github-contribution-grid-snake.svg">
-</picture>
+  </picture>
