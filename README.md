@@ -1,6 +1,7 @@
 ### Opaaaa! Eu sou o Miguel 👋
 
-- 🌱 Estudando JavaScript, HTML, CSS, Azure, React e Tailwind
+- 🌱 Estudando JavaScript, HTML, CSS e TypeScript
+- 📖 Me aprofundando em Azure, React, Vite e Tailwind
 - 👯 Buscando conexões e oportunidades profissionais
 - 😄 Pronomes: ele/dele
 
@@ -17,7 +18,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=javascript,html,css" />
+          <img src="https://skillicons.dev/icons?i=javascript,html,css,typescript" />
         </a>
       </p>
     </div>
@@ -30,7 +31,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure,react,tailwind,vite" />
+          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure,react,tailwind,vite,git,vercel" />
         </a>
       </p>
     </div>  
