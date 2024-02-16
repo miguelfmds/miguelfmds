@@ -1,7 +1,7 @@
 ### Opaaaa! Eu sou o Miguel 👋
 
-- 🌱 Estudando JavaScript, HTML, CSS e TypeScript
-- 📖 Me aprofundando em Azure, React, Vite e Tailwind
+- 🌱 Estudando JavaScript, HTML e CSS
+- 📖 Me aprofundando em React, Angular, Vite e Tailwind
 - 👯 Buscando conexões e oportunidades profissionais
 - 😄 Pronomes: ele/dele
 
