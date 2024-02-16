@@ -1,6 +1,6 @@
 ### Opaaaa! Eu sou o Miguel 👋
 
-- 🌱 Estudando JavaScript, HTML, CSS e Banco de Dados
+- 🌱 Estudando JavaScript, HTML, CSS e Python
 - 📖 Me aprofundando em React, Vite e Tailwind
 - 👯 Buscando conexões e oportunidades profissionais
 - 😄 Pronomes: ele/dele
@@ -31,7 +31,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure,react,tailwind,vite,git,vercel,postgresql" />
+          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure,react,tailwind,vite,git,vercel" />
         </a>
       </p>
     </div>  
