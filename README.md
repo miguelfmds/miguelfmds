@@ -1,6 +1,6 @@
 ### Opaaaa! Eu sou o Miguel 👋
 
-- 🌱 Estudando JavaScript, HTML e CSS
+- 🌱 Estudando JavaScript, HTML, CSS e Python
 - 📖 Me aprofundando em React, Vite e Tailwind
 - 👯 Buscando conexões e oportunidades profissionais
 - 😄 Pronomes: ele/dele
@@ -18,7 +18,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=javascript,html,css" />
+          <img src="https://skillicons.dev/icons?i=javascript,html,css,python" />
         </a>
       </p>
     </div>
@@ -40,6 +40,7 @@
 
    ## Bootcamps e outros eventos
    [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="70"></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals?page=1&search=&tab=path)
+   [<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="70"></a>](https://web.dio.me/track/bootcamp-squadio)
    [<img src="https://app.rocketseat.com.br/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FVQUrcxmRwudk9HRfqaOB&w=128&q=75" height="25"></a>](https://www.rocketseat.com.br/eventos/nlw)
 
    ## Linguagens mais usadas
