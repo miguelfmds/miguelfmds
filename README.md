@@ -1,7 +1,7 @@
 ### Opaaaa! Eu sou o Miguel 👋
 
 - 🌱 Estudando JavaScript, HTML, CSS e Python
-- 📖 Me aprofundando em React, Vite e Tailwind
+- 📖 Me aprofundando em React e aprendendo sobre SQL
 - 👯 Buscando conexões e oportunidades profissionais
 - 😄 Pronomes: ele/dele
 
