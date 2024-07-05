@@ -31,7 +31,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure,react,tailwind,vite,git,vercel" />
+          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure,react,tailwind,vite,git,vercel,nodejs" />
         </a>
       </p>
     </div>  
