@@ -1,7 +1,7 @@
 ### Opaaaa! Eu sou o Miguel 👋
 
-- 🌱 Estudando JavaScript, HTML e CSS
-- 📖 Me aprofundando em React
+- 🌱 Dev Full Stack
+- 📖 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas - UNINTER
 - 👯 Buscando conexões e oportunidades profissionais
 - 😄 Pronomes: ele/dele
 
