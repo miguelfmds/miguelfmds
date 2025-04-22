@@ -18,7 +18,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=javascript,html,css" />
+          <img src="https://skillicons.dev/icons?i=javascript,html,css,dart" />
         </a>
       </p>
     </div>
@@ -31,7 +31,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure,react,tailwind,vite,git,vercel,nodejs,vite,mysql" />
+          <img src="https://skillicons.dev/icons?i=github,vscode,figma,azure,react,tailwind,vite,git,vercel,nodejs,vite,mysql,flutter" />
         </a>
       </p>
     </div>  
@@ -42,6 +42,7 @@
    [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="70"></a>](https://web.dio.me/track/microsoft-azure-ai-fundamentals?page=1&search=&tab=path)
    [<img src="https://app.rocketseat.com.br/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FVQUrcxmRwudk9HRfqaOB&w=128&q=75" height="25"></a>](https://www.rocketseat.com.br/eventos/nlw)
       [<img src="https://assets.dio.me/mXe9Ce9ajHOrzggSjtSD7fubZXjG3zEZs_X8r9xJ9jg/f:webp/h:120/q:80/L3RyYWNrcy9mODRlOWQxZS04ZWQ1LTQ2ZjctYjlhMC1kY2Y1YTAzOTZmMzMucG5n" height="70"></a>](https://web.dio.me/track/santander-ciberseguranca-2024?tab=path)
+      [<img src="https://www.alura.com.br/assets/img/imersoes/imersao-mobile/logo-imersao-mobile-horizontal.1743003699.svg" height="20"></a>](https://web.dio.me/track/santander-ciberseguranca-2024?tab=path)
      
    ## Linguagens mais usadas
    
