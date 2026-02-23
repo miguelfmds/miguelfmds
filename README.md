@@ -44,12 +44,9 @@
       [<img src="https://assets.dio.me/mXe9Ce9ajHOrzggSjtSD7fubZXjG3zEZs_X8r9xJ9jg/f:webp/h:120/q:80/L3RyYWNrcy9mODRlOWQxZS04ZWQ1LTQ2ZjctYjlhMC1kY2Y1YTAzOTZmMzMucG5n" height="70"></a>](https://web.dio.me/track/santander-ciberseguranca-2024?tab=path)
       [<img src="https://www.alura.com.br/assets/img/imersoes/imersao-mobile/logo-imersao-mobile-horizontal.1743003699.svg" height="20"></a>](https://web.dio.me/track/santander-ciberseguranca-2024?tab=path)
      
-   ## Linguagens mais usadas
+   ## GitHub Stats
    
    [![Miguelfmds GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=miguelfmds)](https://github.com/miguelfmds/github-readme-stats-fast)
-
-   ## GitHub Stats
-   [![miguelfmds GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelfmds&show_icons=true&theme=tokyonight)](https://github.com/miguelfmds/github-readme-stats)
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelfmds/miguelfmds/output/github-contribution-grid-snake-dark.svg">
