@@ -46,7 +46,7 @@
      
    ## Linguagens mais usadas
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfmds&layout=donut-vertical)](https://github.com/miguelfmds/github-readme-stats)
+   [![Miguelfmds GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=miguelfmds)](https://github.com/miguelfmds/github-readme-stats-fast)
 
    ## GitHub Stats
    [![miguelfmds GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelfmds&show_icons=true&theme=tokyonight)](https://github.com/miguelfmds/github-readme-stats)
